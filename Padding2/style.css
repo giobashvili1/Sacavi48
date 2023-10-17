@@ -1,0 +1,33 @@
+.box{
+    width: 550px;
+    height: 550px;
+    border: 1px solid #B4B4B4;
+    padding-left: 80px;
+    padding-top: 50px;
+   
+}
+h5{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16.41px;
+    padding-left: 50px;
+    
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: #B4B4B4;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16.41px;
+    padding-left: 50px;
+   
+}
+img{
+   width: 305px;
+   height: 226px;
+   padding-left: 50px;
+}
+.box1{
+    padding-left: 50px;
+}
